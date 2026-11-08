@@ -6,7 +6,7 @@ All 117 are listed below. Browse the newest on [warmada.com/jobs/los-angeles](ht
 
 **By role:** Software Engineering (12) · Hardware Engineering (8) · Data (3) · Product Management (3) · Design (2) · Marketing (6) · Sales (16) · Customer Success (4) · Operations (6) · Finance (3) · Legal & Compliance (2) · Other (52)
 
-**How it is built.** Warmada reads the public job boards of companies on Greenhouse, Ashby and Lever every day and keeps the postings that name a US location. A role is on this list when its posting names Los Angeles. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
+**How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Los Angeles. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
