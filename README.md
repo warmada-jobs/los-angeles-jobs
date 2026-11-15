@@ -1,6 +1,6 @@
 # Los Angeles Jobs
 
-Open roles in Los Angeles: 106 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=los-angeles).** Last updated 2026-11-14.
+Open roles in Los Angeles: 106 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=los-angeles).** Last updated 2026-11-15.
 
 All 106 are listed below. Browse the newest on [warmada.com/jobs/los-angeles](https://warmada.com/jobs/los-angeles?utm_source=github&utm_medium=list&utm_campaign=los-angeles).
 
